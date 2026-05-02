@@ -1,6 +1,8 @@
 # Sparky-Doom
 1993 Doom running on Nvidia DGX Spark running, ARM processor, Tensor Cores, Grace Blackwell architecture
 
+<img width="1556" height="1632" alt="Sparky-Doom" src="https://github.com/user-attachments/assets/411f9e31-a623-4c31-8317-987b56da1800" />
+
 
 Started this project using Docker Doom (https://github.com/B0nam/DOCKER-DOOM)
 
